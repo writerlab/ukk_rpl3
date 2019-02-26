@@ -1,4 +1,4 @@
-<h1>data jenis barang</h1>
+<h1>data jenis wkwkwkwk</h1>
 <table>
 
 
