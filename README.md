@@ -17,9 +17,9 @@
 * [x] pecah struktur index
 * [x] buat ruouting
 * [x] konfigurasi database (koneksi)
-* [ ] login
-* [ ] logout
+* [x] login
+* [x] logout
 * [ ] inventarisir
-  * [ ] data jenis
-  * [ ] data ruangan
+  * [x] data jenis
+  * [x] data ruangan
   * [ ] inventarisir
